@@ -1,4 +1,4 @@
-### Should be noted that this scraper, as are all scrapers, are pretty prone to error.
+### Should be noted that this scraper, as are all scrapers, is pretty prone to error.
 ### Use with caution, double check the numbers pulled. If the webpage format changes, this scraper will fail.
 from bs4 import BeautifulSoup as bs
 from urllib2 import build_opener
